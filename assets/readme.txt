@@ -1,0 +1,1 @@
+Place your logo at assets/logo.png (currently a placeholder image is provided).
