@@ -1,0 +1,4 @@
+id,device_name,device_type,location,status,last_inspection,notes,assigned_to,created_at
+1,Front Gate Cam,Camera,Gate House,faulty,2025-11-20,Intermittent feed,Tech A,2025-01-10
+2,Parking Lot Cam,Camera,Parking,repaired,2025-10-05,Replaced PSU,Tech B,2025-02-14
+3,ATM Terminal,Device,Main Lobby,awaiting PO,2025-09-01,Requires replacement camera module,Tech C,2025-03-03
